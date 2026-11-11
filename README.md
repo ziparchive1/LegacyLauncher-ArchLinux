@@ -10,13 +10,14 @@ Discord: m1rxx11org
 
 # Installation:
 
-sudo / doas pacman -S git
+'sudo / doas pacman -S git'
 
-git clone https://github.com/ziparchive1/LegacyLauncher-ArchLinux.git ll
+'git clone https://github.com/ziparchive1/LegacyLauncher-ArchLinux.git ll'
 
-cd ll
 
-makepkg -fsi
+'cd ll'
+
+'makepkg -fsi'
 
 # Features:
 
