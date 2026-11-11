@@ -18,3 +18,6 @@ cd ll
 
 makepkg -fsi
 
+# Features:
+
+The key advantage here—compared to the LL version by HurricanePootis—is that we only have a single PKGBUILD file. Furthermore, it will always be up to date, as it downloads the .jar file directly from the LL server; if you ever want to update, simply run `makepkg -fsi`.
